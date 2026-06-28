@@ -55,6 +55,7 @@
         <section id="portfoyler" class="section"></section>
         <section id="ilanlar" class="section"></section>
         <section id="eslesme" class="section"></section>
+        <section id="mesajlar" class="section"></section>
         <section id="gorevler" class="section"></section>
         <section id="ayarlar" class="section"></section>
       </main>
